@@ -6,6 +6,7 @@ function commonFun () {
 }
 // 暴露出这些属性和方法
 // 哟西哟西
+// 是狼给的诱惑
 export default {
   httpUrl,
   commonFun
