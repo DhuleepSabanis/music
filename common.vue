@@ -7,6 +7,8 @@ function commonFun () {
 // 暴露出这些属性和方法
 // 哟西哟西
 // 是狼给的诱惑
+// 风干了寂寞
+// 我渴望着天空
 export default {
   httpUrl,
   commonFun
